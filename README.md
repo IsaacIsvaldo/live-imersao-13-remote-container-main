@@ -1,15 +1,3 @@
-![Imersão Full Stack && Full Cycle](https://events-fullcycle.s3.amazonaws.com/events-fullcycle/static/site/img/grupo_4417.png)
-
-Participe gratuitamente: https://imersao.fullcycle.com.br/
-
-## Sobre o repositório
-Esse repositório contém o código-fonte ministrado na aula: Dev Container: Integração Perfeita entre Docker e VS Code [https://www.youtube.com/watch?v=ecj7FLt6chg](https://www.youtube.com/watch?v=ecj7FLt6chg)
-
-## Utilizar o Dev Container
-
----
-
-Acesse a pasta `live-imersao-13-remote-container` e abra o VsCode:
 
 ```bash
 cd live-imersao-13-remote-container && code .
